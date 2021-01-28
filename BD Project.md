@@ -14,4 +14,4 @@
 - 1/26 - User Stories assigned and broken down, branches set, Sprint goals outlined
 - 1/29 - Demo Minimal Functionality or present initial project breakdown
 - 2/1 - Additional Project Meeting
-- 2/3 - MVP Demo or Refined Proejct
+- 2/3 - MVP Demo or Refined Project
