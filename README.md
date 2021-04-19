@@ -6,6 +6,16 @@ Projects for different tech stacks will be posted here for Staging Software Engi
 Current Projects
 ----------------
 
+- Big Data (Scala and Python)
+- MSBI
+- .NET 
+- Java w/Angular
+- Java w/React
+- Cloud React Native
+- Salesforce
+
+Older Projects
+-----------------
 1. Unique Restuarant Chains -- Java
 2. Pizza Restaurant -- .NET
 3. Bailey Barista's Bar -- Any Stack
