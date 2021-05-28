@@ -1,5 +1,5 @@
 ## Assignment
- - Create a Selenium Script that will automate the submittal of your timesheet.
+ - Create a Selenium Script that will automate the submittal of your Revature timesheet.
  Note: Authentication may be tricky on this one, there are ways around this, and if you cannot find a solution, outline what you were able to do.
 
 ---
@@ -10,7 +10,7 @@
 ## Required Tech Stack
 - Python
 - Selenium
-- You may also use other technologies to furfill the requirement
+- You may also use other technologies to fulfill the requirement
 
 ## Timeline/Deliverables
 - 
